@@ -21,7 +21,7 @@ A WordPress plugin that provides a multi-step form for generating and sending Sq
    git clone https://github.com/yourusername/square-invoice-plugin.git
 
 ## Install dependencies via Composer:
-2. **Clone or download** this repository into your `wp-content/plugins/` directory:
+2. **Install dependencies via Composer:
    ```composer
    cd square-invoice-plugin
    composer install
