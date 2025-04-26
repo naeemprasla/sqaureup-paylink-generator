@@ -51,7 +51,7 @@ A WordPress plugin that provides a multi-step form for generating and sending Sq
  - All ACF fields are marked as read-only to prevent edits after submission.
 
 ## ✍️ License
- -MIT License
+ - GPL License
 
 ## 🙋‍♂️ Author
  - Naeem Prasla
